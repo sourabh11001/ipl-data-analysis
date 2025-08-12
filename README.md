@@ -9,7 +9,7 @@ This project explores and visualizes IPL match data from 2008 to 2022 using Pyth
 
 ## 📂 Dataset Source
 
-- Kaggle IPL Dataset: (https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020?select=deliveries.csv)
+- Kaggle IPL Dataset: [Link](https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020?select=deliveries.csv)
 - Files used:
   - `deliveries.csv`
   - `matches.csv`
